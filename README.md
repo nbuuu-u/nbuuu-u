@@ -21,11 +21,11 @@
   </p>
 
   <h4>📱 Socials:</h4>
-  <p style="text-decoration: none;">
-    <a href="https://www.tiktok.com/@mildrest._">
+  <p>
+    <a style="text-decoration: none;" href="https://www.tiktok.com/@mildrest._">
       <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"/>
     </a>
-    <a href="https://youtube.com/@powbu">
+    <a style="text-decoration: none;" href="https://youtube.com/@powbu">
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
     </a>
   </p>
