@@ -51,7 +51,7 @@
 
 ### 🐍 Snake Contribution Animation:
 
-<marquee>🐍don't scroll too fast, snake might get dizzy🐍</marquee>
+<p>don't scroll too fast, snake might get dizzy🐍</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nbuuu-u/nbuuu-u/output/snake.svg" alt="Snake animation"/>
