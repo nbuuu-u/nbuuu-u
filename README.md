@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=100&color=7a9b57&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello;I'm+nobu+a+fullstack+developer" width="70%" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=100&color=7a9b57&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+nobu+a+fullstack+developer" width="70%" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/94/3a/3f/943a3f95936d66dc0c78fd445893431e.gif" width="180"/>
+  <img src="https://i.pinimg.com/originals/94/3a/3f/943a3f95936d66dc0c78fd445893431e.gif" width="250"/>
 </p>
 
 ---
 
 #### My skills and tools
-<br>
 
 ###### my skills:
 <p>
@@ -31,7 +30,6 @@
 ---
 
 #### My socials media and stats
-<br>
 
 ###### socials:
 <p>
@@ -46,8 +44,8 @@
 </div>
 
 ###### my contribution:
+``Warning: dont scroll too fast, the snake might bite you``
 <p align="center">
   <img src="https://raw.githubusercontent.com/nbuuu-u/nbuuu-u/output/snake.svg" alt="Snake animation"/>
 </p>
 
-``Warning: dont scroll too fast, the snake might bite you``
