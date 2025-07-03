@@ -21,7 +21,7 @@
   </p>
 
   <h4>📱 Socials:</h4>
-  <p>
+  <p style="text-decoration: none;">
     <a href="https://www.tiktok.com/@mildrest._">
       <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"/>
     </a>
