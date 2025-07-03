@@ -29,7 +29,7 @@
 
 ---
 
-### My socials media and stats
+### My socials media, stats and repository
 
 #### socials:
 <p>
@@ -38,14 +38,19 @@
 </p>
 
 #### GitHub Stats:
-<div align="center">
+<div align="">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nbuuu-u&theme=gruvbox&hide_border=true&show_icons=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbuuu-u&layout=compact&theme=gruvbox&hide_border=true"/>
 </div>
+
+#### top repository:
+###### Warning: don't download and open the repo
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nbuuu-u&repo=its-just-a-repo&show_owner=true&theme=gruvbox&hide_border=true"/>
+</p>
 
 #### contribution:
 ###### Warning: dont scroll too fast, the snake might bite you
 <p align="center">
   <img src="https://raw.githubusercontent.com/nbuuu-u/nbuuu-u/output/snake.svg" alt="Snake animation"/>
 </p>
-
