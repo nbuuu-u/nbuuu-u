@@ -5,6 +5,8 @@
 
 ---
 
+<div>
+
   <div>
     <img align="right" height="150" src="https://i.pinimg.com/originals/94/3a/3f/943a3f95936d66dc0c78fd445893431e.gif" />
   </div>
