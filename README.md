@@ -33,10 +33,12 @@
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbuuu-u&theme=gruvbox&hide_border=true&show_icons=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nbuuu-u&theme=gruvbox&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbuuu-u&theme=gruvbox&hide_border=true&layout=compact"/>
+### 📊 GitHub Stats:
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nbuuu-u&theme=gruvbox&hide_border=true&show_icons=true" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nbuuu-u&theme=gruvbox&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbuuu-u&theme=gruvbox&hide_border=true&layout=compact" height="200"/>
 </div>
 
 <hr/>
