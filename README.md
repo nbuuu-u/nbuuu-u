@@ -45,9 +45,10 @@
 
 #### top repository:
 ###### Warning: this repo is just bait for the stats. don't expect magic inside.
-<p>
+<a href="https://github.com/nbuuu-u/its-just-a-repo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nbuuu-u&repo=its-just-a-repo&show_owner=true&theme=gruvbox&hide_border=true"/>
-</p>
+</a>
+<br>
 <a href="https://github.com/nbuuu-u/its-just-a-repo">
   <img src="https://img.shields.io/badge/just--for--stats-%F0%9F%92%80-lightgrey" alt="Just for Stats" />
 </a>
